@@ -2,7 +2,7 @@
 
 ![ProxyForge Logo](proxyforge.ico)
 
-A streamlined GUI application for managing Nginx as a local reverse proxy with automatic SSL certificate generation.
+A streamlined GUI application for managing Nginx as a local reverse proxy with automatic SSL certificate (self certified) generation.
 
 ## Overview
 
