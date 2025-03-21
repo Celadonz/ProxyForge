@@ -14,6 +14,7 @@ ProxyForge simplifies the process of configuring and managing Nginx as a reverse
 
 - Automatically generate self-signed SSL certificates
 - Manages hosts file entries
+- Automatically starts/restarts Nginx
 
 ## Features
 
